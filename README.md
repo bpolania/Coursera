@@ -1,7 +1,7 @@
 
 Data Set Code Book: Human Activity Samsung Device Measures
 
-How the data table was generated
+##How the data table was generated
 
 Create a table for Activities with columns "id" and "label" (activitiesTable) and read data frame from .txt file and rename variables
 
