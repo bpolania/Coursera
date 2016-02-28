@@ -1,7 +1,7 @@
 
-Data Set Code Book: Human Activity Samsung Device Measures
+## Data Set Code Book: Human Activity Samsung Device Measures
 
-##How to generate data table
+#How to generate data table
 
 * Create a table for Activities with columns "id" and "label" (activitiesTable) and read data frame from .txt file and rename variables
 
@@ -42,7 +42,7 @@ Data Set Code Book: Human Activity Samsung Device Measures
 
 ---------------------------------------------------------------------
 
-##Codebook
+#Codebook
 February, 2016
 Codebook prepared by Boris Polania, based on data set she entered as text file (R test.table).
 
