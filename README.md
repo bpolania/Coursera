@@ -3,7 +3,7 @@ Data Set Code Book: Human Activity Samsung Device Measures
 
 ##How the data table was generated
 
-#Create a table for Activities with columns "id" and "label" (activitiesTable) and read data frame from .txt file and rename variables
+Create a table for Activities with columns "id" and "label" (activitiesTable) and read data frame from .txt file and rename variables
 
 Create a character vector for Features (features) and read data frame from .txt file
 Create character vector from data frame column and format to more descriptive variable names, substitute words and characters, 
